@@ -8,7 +8,7 @@
     },
     "name": {
         "f": "Wessam",
-        "l": "El-gamal"
+        "l": "El-gaml"
     },
     "nav": {
         "home": "Home",
@@ -49,7 +49,7 @@
     },
     "cv": {
         "btn": "Download CV",
-        "file-name": "Wessam El-gamal | CV"
+        "file-name": "Wessam El-gaml | CV"
     },
     "type": {
         "military": "Military",
